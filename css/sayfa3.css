@@ -1,0 +1,180 @@
+body{
+	overflow-x: hidden; 
+	overflow-y: auto;
+	margin:auto;
+}
+#bodykismi{
+	width:100%;
+	height:100%; 
+}
+#menu{
+	background-color:black;
+	text-align:center;
+	width:100%;
+	height:140px;
+	color:white;
+	text-align:center;
+	position: relative;
+	bottom:20px;	
+}
+#ulli ul li{
+	list-style-type:none;
+	font-family:copperplate gothic light;
+	background-color:black;
+    float:left;
+	padding:10px 5px;
+	margin:8% 2% 5% 2%;
+	position: relative;
+	left:50px;
+	bottom:40px;
+	
+}
+#menu ul li:hover{
+	background-color:green;
+	transition:0.5s ease;
+}
+#logo img{
+	width:300px;
+	height:80px;
+	float:left;
+	margin:5px 5px;
+	background-color:black;
+}
+#ulli ul li img{
+	width:35px;
+	height:35px;
+	margin-top:10px;
+	position:relative;
+	top:10px;
+}
+#ulli ul a{
+	color:white
+}
+#ulli ul li img:hover{
+	color:green
+}
+#liste2 img{
+	width:10px;
+	height:10px;
+	color:black;
+}
+#liste3 img{
+	position: relative;
+	left:4px;
+}
+#liste4 img{
+	position: relative;
+	height:2px;
+    width:2px;
+	left:10px;
+}
+#shop p img{
+	font-family:copperplate gothic light;
+	position: relative;
+	top:10px;
+}
+#shop p{
+	font-family:copperplate gothic light;
+	position: relative;
+	bottom:5px;
+	left:15px;
+}
+#footer{
+	width:100%;
+	height:160px;
+	background-color:black;
+	position: relative;
+	top:430px;
+}
+#footer p{
+	position: relative;
+	color:white;
+	top:80px;
+    left:1000px;
+}
+#tshirt1 img{
+	width:300px;
+	height:393px;
+	position: relative;
+	right:970px;
+	top:2px;
+}
+#tshirt1ad a{
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	position: relative;
+	left:110px;
+	font-family:copperplate gothic light;
+	color:black;
+}
+#tshirt2 img{
+	width:300px;
+	height:393px;
+	position: relative;
+	left:410px;
+	bottom:440px;
+}
+#tshirt3 img{
+	width:390px;
+	height:393px;
+	position: relative;
+	bottom:840px;
+	left:750px;
+}
+#tshirt1fiyat p{
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	position: relative;
+	left:160px;
+	bottom:807px;
+	font-family:copperplate gothic light;
+	color:black;
+}
+#tshirt2ad a{
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	position: relative;
+	left:480px;
+	bottom:875px;
+	font-family:copperplate gothic light;
+	color:black;
+}
+#tshirt2fiyat{
+		text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	position: relative;
+	left:530px;
+	bottom:869px;
+	font-family:copperplate gothic light;
+	color:black;
+}
+#tshirt3ad a{
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	position: relative;
+	left:880px;
+	bottom:945px;
+	font-family:copperplate gothic light;
+	color:black;
+}
+#tshirt3fiyat{
+		text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	position: relative;
+	left:900px;
+	bottom:940px;
+	font-family:copperplate gothic light;
+	color:black;
+}

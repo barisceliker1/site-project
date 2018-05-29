@@ -1,0 +1,177 @@
+body{
+	overflow-y: auto;
+    overflow-x: hidden;	
+}
+#bodykismi{
+	width:100%;
+	height:100%; 
+}
+#menu{
+	background-color:black;
+	text-align:center;
+	width:100%;
+	height:140px;
+	color:white;
+	text-align:center;
+	position: relative;
+	bottom:20px;	
+}
+#ulli ul li{
+	list-style-type:none;
+	font-family:copperplate gothic light;
+	background-color:black;
+    float:left;
+	padding:10px 5px;
+	margin:8% 2% 5% 2%;
+	position: relative;
+	left:50px;
+	bottom:40px;
+	
+}
+#menu ul li:hover{
+	background-color:green;
+	transition:0.5s ease;
+}
+#logo img{
+	width:300px;
+	height:80px;
+	float:left;
+	margin:5px 5px;
+	background-color:black;
+}
+#ulli ul li img{
+	width:35px;
+	height:35px;
+	margin-top:10px;
+	position:relative;
+	top:10px;
+}
+#ulli ul a{
+	color:white
+}
+#ulli ul li img:hover{
+	color:green
+}
+#liste2 img{
+	width:10px;
+	height:10px;
+	color:black;
+}
+#liste3 img{
+	position: relative;
+	left:4px;
+}
+#liste4 img{
+	position: relative;
+	height:2px;
+    width:2px;
+	left:10px;
+}
+#shop p img{
+	font-family:copperplate gothic light;
+	position: relative;
+	top:10px;
+}
+#shop p{
+	font-family:copperplate gothic light;
+	position: relative;
+	bottom:5px;
+	left:15px;
+}
+#sporayakkabi img{
+	width:285px;
+	height:380px;
+	position: relative;
+	right:850px;
+	top:10px;
+}
+#sporismi a{
+	font-family:copperplate gothic light;
+	position: relative;
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	color:black;
+	left:230px;
+}
+#fiyat1 p{
+	font-family:copperplate gothic light;
+	position: relative;
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	left:280px;
+}
+#ayakkabi2 img{
+	width:300px;
+	height:380px;
+	position: relative;
+	left:560px;
+	bottom:460px;
+}
+#sporismi2 a{
+	font-family:copperplate gothic light;
+	position: relative;
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	color:black;
+	left:630px;
+	bottom:470px;
+}
+#fiyat2{
+	font-family:copperplate gothic light;
+	position: relative;
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	color:black;
+	left:690px;
+	bottom:470px;
+}
+#sporayakkabi3 img{
+	width:255px;
+	height:385px;
+	position: relative;
+	left:950px;
+	bottom:930px;
+}
+#sporismi3 a{
+	font-family:copperplate gothic light;
+	position: relative;
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	color:black;
+	left:990px;
+	bottom:945px;
+}
+#fiyat3{
+	font-family:copperplate gothic light;
+	position: relative;
+	text-decoration:none;
+	font-weight:100;
+	font-weight:800;
+	font-weight:bold;
+	color:black;
+	left:1030px;
+	bottom:950px;
+}
+#footer{
+	width:100%;
+	height:160px;
+	background-color:black;
+	position: relative;
+	top:0px;
+}
+#footer p{
+	position: relative;
+	color:white;
+	top:90px;
+    left:1000px;
+}
